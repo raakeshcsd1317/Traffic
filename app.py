@@ -95,7 +95,7 @@ st.caption("Predicts average freeway speed using California PeMS D7 sensor data.
 with st.sidebar:
     with st.expander('INFO ℹ️'):
         st.subheader('Developed by :red[RAAKESH A S]')
-        st.link_button(':blue[LinkedIn ID]','https://www.linkedin.com/in/raakesh-a-s/')
+        st.link_button(':blue[LinkedIn ID]','https://www.linkedin.com/in/raakesh-a-s')
         st.link_button(':red[GitHub]','https://github.com/raakeshcsd1317')
 
 try:
